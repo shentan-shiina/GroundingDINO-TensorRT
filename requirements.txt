@@ -1,0 +1,12 @@
+torch==2.1.0+cu121
+torchvision==0.16.0+cu121
+transformers==4.46.3
+addict
+yapf
+timm
+numpy==1.24.4
+opencv-python
+supervision>=0.22.0
+pycocotools
+polygraphy==0.49.18
+
